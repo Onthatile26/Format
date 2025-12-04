@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "../../Documents/Funcions"
+		},
+		{
+			"path": "../validate"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../scopedemo"
+		},
+		{
+			"path": "../Combined"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Combined",
+		"liveServer.settings.port": 5501
+	}
+}
